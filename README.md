@@ -5,7 +5,7 @@
 2. Download the file 'Celebrity_detective_game.py'.
 3. Open a terminal and run:
 
-   python celebrity_detective_game.py
+   python3 celebrity_detective_game.py
 
 ## How to Play
 - Ask yes/no questions about the hidden object's features.
