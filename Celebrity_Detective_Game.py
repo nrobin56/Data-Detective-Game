@@ -128,3 +128,5 @@ def play_game():
         else:
             print("Invalid question. Try again.")
 
+if __name__ == "__main__":
+    play_game()
