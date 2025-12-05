@@ -15,6 +15,7 @@ CELEBRITIES = [
     {"name": "Ariana Grande",   "profession": "musician", "fame": "medium", "era": "2010s",  "label": 0},
     {"name": "Tom Holland",     "profession": "actor",    "fame": "medium", "era": "2020s",  "label": 0},
     {"name": "Serena Williams", "profession": "athlete",  "fame": "high",   "era": "2000s",  "label": 1},
+    {"name": "Chris Brown",     "profession": "musician", "fame": "high",   "era": "2000s",  "label": 0},
 ]
 
 FEATURES = ["profession", "fame", "era"]
